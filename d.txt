@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello cac ban minh yeu thien nhien
+=======
+
